@@ -15,7 +15,7 @@
 
 <br>
 
-> 🌐 **[Live Demo → Coming Soon](#)** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful!
+> 🌐 **https://ai-data-analyzer-kxja9u6pnfnqfn8mezw7y5.streamlit.app/** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful!
 
 </div>
 
